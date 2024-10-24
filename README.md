@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Hello, I am ghostak from Freiburg, currently studying Sustainable Systems Engineering at the Albert Ludwig University of Freiburg.
+
 <!--
 **ghostak108/ghostak108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
