@@ -1,18 +1,27 @@
-## Hi there 👋
+# Noah Sänger
 
-Hello, I am ghostak from Freiburg, currently studying Sustainable Systems Engineering at the Albert Ludwig University of Freiburg.
+**Microsystems Engineering student · Robotics · Hardware prototyping · Photovoltaics**
 
-<!--
-**ghostak108/ghostak108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I study Microsystems Engineering at the University of Freiburg and work as a student research assistant at Fraunhofer ISE. I enjoy turning technical ideas into working systems, connecting mechanical design, electronics and software.
 
-Here are some ideas to get you started:
+## What I work on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Robotics & prototyping:** CAD design, 3D printing and motor control.
+- **Photovoltaics:** practical work in the environment of PV printing technology and metallization.
+- **Software:** Python for technical projects and web development.
+
+## Selected projects
+
+| Project | Focus |
+| --- | --- |
+| [EV3 multipurpose robot](https://github.com/ghostak108/system-design-project) | Team project with line following, sensor-based navigation and object handling in Python. |
+| [Webvilo](https://github.com/ghostak108/website_webvilo) | Business website project using TypeScript. |
+| [Zweiklang](https://github.com/ghostak108/ghostak108.github.io) | Website for our music and event project. |
+
+## Tools & interests
+
+Python · Autodesk Fusion 360 · CAD · 3D printing · LaTeX · Measurement technology
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/noah-saenger/) · Freiburg im Breisgau, Germany
